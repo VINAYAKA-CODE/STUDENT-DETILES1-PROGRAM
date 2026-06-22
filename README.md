@@ -1,2 +1,2 @@
 # STUDENT-DETILES1-PROGRAM
-This program is bulid by using stack concept like . this student detiles program
+This program is bulid by using stack concept like . this is student detiles program
